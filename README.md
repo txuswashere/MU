@@ -15,7 +15,7 @@
 * CSIRT: Computer Security Incident Response Team. https://www.csirt.es/ Asociación independiente y sin ánimo de lucro compuesto por los equipos de respuesta a incidentes de seguridad CSIRT/CERT, sean públicos o privados. https://www.csirt.es/index.php/es/miembros
 
 #### ENISA 
-Agencia de Seguridad de las Redes y de la Información ENISA 
+Agencia de Seguridad de las Redes y de la Información  
 * https://www.enisa.europa.eu/
 * https://www.enisa.europa.eu/publications/csirt-setting-up-guide-in-spanish
 * https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational
@@ -23,27 +23,43 @@ Agencia de Seguridad de las Redes y de la Información ENISA
 * https://www.enisa.europa.eu/publications/strategies-for-incident-response-and-cyber-crisis-cooperation
 
 
-* FIRST https://www.first.org/
-* TF-CSIRT https://www.trusted-introducer.org/
-* European Government CERTs group http://www.egc-group.org/
-* CERT-EU https://cert.europa.eu/
-* Incibe, instituto de ciberseguridad https://www.incibe.es/
-* CERT de Seguridad e Industria https://www.certsi.es/
-* Oficina de Seguridad del Internauta https://www.osi.es
-* Centro criptológico https://www.ccn-cert.cni.es/
-* Dpto. de Seguridad http://www.dsn.gob.es/
-* Red de Excelencia de Investigación en Ciberseguridad https://www.renic.es/es
-* Centro de protección de infraestructuras críticas http://www.cnpic.es/
-* Centro Vasco de Ciberseguridad https://www.basquecybersecurity.eus/es/
-* Privacidad y Protección de datos https://www.aepd.es/guias/index.html
+
+FIRST 
+* https://www.first.org/
+TF-CSIRT
+* https://www.trusted-introducer.org/
+European Government CERTs group 
+* http://www.egc-group.org/
+CERT-EU
+* https://cert.europa.eu/
+Incibe, instituto de ciberseguridad 
+* https://www.incibe.es/
+CERT de Seguridad e Industria
+* https://www.incibe-cert.es/
+Oficina de Seguridad del Internauta 
+* https://www.osi.es
+Centro criptológico 
+* https://www.ccn-cert.cni.es/
+Dpto. de Seguridad
+* http://www.dsn.gob.es/
+Red de Excelencia de Investigación en Ciberseguridad 
+* https://www.renic.es/es
+Centro de protección de infraestructuras críticas 
+* http://www.cnpic.es/
+Centro Vasco de Ciberseguridad
+* https://www.basquecybersecurity.eus/
+Privacidad y Protección de datos 
+* https://www.aepd.es/guias/index.html
 
 #### NIST
-* NIST, Instituto de Estándares y Tecnología https://www.nist.gov/
+* Instituto de Estándares y Tecnología https://www.nist.gov/
 * Computer Security Incident Handling Guide https://www.nist.gov/publications/computer-security-incident-handling-guide
 * Industrial Control Systems Cyber Emergency Response Team https://ics-cert.us-cert.gov/
 
 
-* Esquema de seguridad de Gestión de ciberincidentes https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html
+Esquema de seguridad de Gestión de ciberincidentes
+* https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html
+
 
 
 # SIEM/SOC
@@ -129,6 +145,8 @@ Unifying the global response to cyber crime
 
 SOCaaS: Security Operations Center as a Service 
 * https://www.researchgate.net/publication/307681525_SOCaaS_Security_Operations_Center_as_a_Service_for_Cloud_Computing_Environments/fulltext/57d9bbf108ae0c0081efbb8e/307681525_SOCaaS_Security_Operations_Center_as_a_Service_for_Cloud_Computing_Environments.pdf 
+
+
 
 ## Legislación y normativa
 
